@@ -118,6 +118,6 @@ Windows                  1 hr 26 mins        ███████████�
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://blog.csdn.net/qq_46637857?spm=1001.2101.3001.5343"><img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"/></a>
+  <a href="https://blog.csdn.net/qq_46637857?spm=1001.2101.3001.5343"><img src="https://blog.csdn.net/qq_46637857?spm=1001.2101.3001.5343"/></a>
 </div>
 
