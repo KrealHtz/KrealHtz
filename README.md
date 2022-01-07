@@ -22,7 +22,7 @@
 
 <p>✍️&nbsp;&nbsp;你好欢迎来到我的主页</p>
 <p>&emsp;&emsp;Keep Real.</p>
-<p>&emsp;&emsp加油</p>
+<p>&emsp;&emsp;加油</p>
 <p>&emsp;&emsp;加油</p>
 
 💪 正在学习: 
@@ -110,16 +110,7 @@ Windows                  1 hr 26 mins        ███████████�
 </table>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /></div>
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=KrealHtz&theme=xcode" /></div>
 
 
 
