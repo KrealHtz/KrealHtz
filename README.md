@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrealHtz)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/KrealHtz?template=classic&introduction=1&introduction.title=true&config.timezone=Asia%2FShanghai)
+
 
 
 
