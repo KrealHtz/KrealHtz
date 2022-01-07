@@ -93,8 +93,6 @@ Windows                  1 hr 26 mins        ███████████�
 
 ```
 
-
- Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
 
 </tr>
