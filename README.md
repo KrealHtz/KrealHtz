@@ -1,9 +1,4 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);hello wor!&center=true&size=27">
-  </a>
-</h1>
+
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
@@ -13,7 +8,7 @@
 <div align="center">
   
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KrealHtz" /></div>
 
 
 
@@ -33,9 +28,6 @@
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 
 
@@ -78,7 +70,6 @@ Thursday     40 commits     ██░░░░░░░░░░░░░░░�
 Friday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
 Saturday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
 Sunday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.93%
-
 ```
 
 
@@ -118,6 +109,6 @@ Windows                  1 hr 26 mins        ███████████�
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://blog.csdn.net/qq_46637857?spm=1001.2101.3001.5343"><img src="https://blog.csdn.net/qq_46637857?spm=1001.2101.3001.5343"/></a>
+  <a href="https://blog.csdn.net/qq_46637857"><img src="https://stats.justsong.cn/api/csdn?id=qq_46637857"/></a>
 </div>
 
